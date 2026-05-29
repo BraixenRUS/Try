@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrySMT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cb6d5437999e3d564a3fdc404d5b9f2d8f15a58")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrySMT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrySMT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
