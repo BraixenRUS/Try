@@ -13,7 +13,7 @@ namespace TrySMT.Domain.Models
 
         public Player()
         {
-            money = 500;
+            money = 700;
             inventory = new List<Item>();
             ownedBuildings = new List<Building>();
             storageUpgrade = 0;

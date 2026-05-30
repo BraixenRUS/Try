@@ -42,6 +42,18 @@ namespace TrySMT.Domain.Services
             }
             return false;
         }
+        
+        public int GetItemPrice(string itemName)
+        {
+            switch (itemName)
+            {
+                case "Зерно": return wheatPrice;
+                case "Древесина": return woodPrice;
+                case "Шёлк": return silkPrice;
+                case "Золото": return goldPrice;
+                default: return 0;
+            }
+        }
 
         public bool SellItem(Player player, Item item, int quantity, int currentPrice)
         {

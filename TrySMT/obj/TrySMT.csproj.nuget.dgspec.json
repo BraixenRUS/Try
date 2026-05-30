@@ -52,11 +52,11 @@
           "dependencies": {
             "MonoGame.Content.Builder.Task": {
               "target": "Package",
-              "version": "[3.8.*, )"
+              "version": "[3.8.1.303, )"
             },
             "MonoGame.Framework.WindowsDX": {
               "target": "Package",
-              "version": "[3.8.*, )"
+              "version": "[3.8.1.303, )"
             }
           },
           "imports": [
